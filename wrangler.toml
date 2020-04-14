@@ -1,0 +1,6 @@
+name = "cfinternship"
+type = "javascript"
+account_id = "58ed728d37e99a92d3f09fb6f9b2dd0a"
+workers_dev = true
+route = ""
+zone_id = ""
